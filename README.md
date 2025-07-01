@@ -3,7 +3,7 @@ This repository contains my personal solutions to a variety of coding questions 
 
 ## What's Included
 
-- Solutions to algorithm and data structure problems
+- Solutions to data structure and algorithm problems
 
 - Clean and well-commented code
 
