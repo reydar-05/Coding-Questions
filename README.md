@@ -11,5 +11,5 @@ This repository contains my personal solutions to a variety of coding questions 
 
 | S.No | Title     | Link                       |
 | :-------- | :------- | :-------------------------------- |
-| `1`      | `Largest Element in an Array` | [TUF](https://takeuforward.org/plus/dsa/problems/largest-element) |
+| `1`      | [`Largest Element in an Array`](https://github.com/reydar-05/Coding-Questions/blob/f3de423450c73ce0d61cc8cbcbd480f5bd284adc/Arrays/1.%20LargestElement.c) | [TUF](https://takeuforward.org/plus/dsa/problems/largest-element) |
 | `2`      | `Check if Array is Sorted` | [TUF](https://takeuforward.org/plus/dsa/problems/check-if-the-array-is-sorted-ii) |
